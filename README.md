@@ -16,6 +16,7 @@
 <a href="https://github.com/Fadinlaws123">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fadinlaws123&show_icons=true&theme=onedark&locale=en" alt="Fadinlaws123" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fadinlaws123&show_icons=true&theme=onedark&locale=en&layout=compact" alt="Fadinlaws123" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Fadinlaws123&theme=dark" alt="Fadinlaws123" />
 </a>
 </p>
 
