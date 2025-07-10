@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Fadinlaws123&color=dc143c&style=plastic)
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/RquDVTfDwu)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]([https://nat2k15.xyz](https://www.simpledevelopments.org/store))
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://simpledevelopments.org/store/)
 ***
 
 ### Information:
@@ -13,10 +13,10 @@
 - Hello there, you're probably not really wondering who I am or why I script / make liveries and such; but that's okay cause I will share anyways. I graduated HS in the year of 2023, where I spent most of my time actually scripting / coding new things, making bots for discord and other things that I lost track of but nonetheless done. I am the original creator of [SimpleCore](https://github.com/Fadinlaws123/SimpleCore) where now I work a full-time job and script / develop things on the times I get off. Feel free to look around or even talk to me on discord @ fadin_laws!
 
 ## Script Highlights:
-- [SimplePriorities](https://google.com/)
-- [SimpleCore](https://google.com/)
-- [SimpleBlacklist](https://google.com/)
-- [Simple911](https://google.com/)
+- [SimpleBanking](https://simpledevelopments.org/store/simple-banking)
+- [SimpleFuel](https://simpledevelopments.org/store/simplefuel)
+- [SimplePoliceGarage](https://simpledevelopments.org/store/simplepolicegarage)
+- [SimpleHUDv2](https://simpledevelopments.org/store/simplehudv2)
 
 ## GitHub Stats:
 <p align="center">
