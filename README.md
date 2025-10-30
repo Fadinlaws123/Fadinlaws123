@@ -29,10 +29,4 @@
 
 *** 
 
-## Join server's I am apart of!
-
-**NAT2K15 Development:** [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)]([https://discord.gg/RquDVTfDwu](https://discord.gg/nat2k15-development-778812156925181966))
-
-***
-
 Show me some love by coming over and following some of my repositories, a follow, or even helping me spread my scripts around! Thank you!!
