@@ -1,9 +1,16 @@
 # 💠 Welcome to My GitHub — SimpleDevelopments™ HQ
 
+## 📊 Profile Stats
+![Profile Views](https://komarev.com/ghpvc/?username=Fadinlaws123&color=blueviolet&style=flat-square)
+![Downloads](https://img.shields.io/github/downloads/Fadinlaws123/SimpleCore/total?style=flat-square)
+[![GitHub Followers](https://img.shields.io/github/followers/Fadinlaws123?label=Followers&style=flat-square)](https://github.com/Fadinlaws123)
+
+---
+
+## 📊 Profile Links
 [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/RquDVTfDwu)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://simpledevelopments.org/store/)
 [![YouTube Badge](https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=youtube&logoColor=white)](#)
-[![GitHub Followers](https://img.shields.io/github/followers/Fadinlaws123?label=Followers&style=flat-square)](https://github.com/Fadinlaws123)
 
 ---
 
