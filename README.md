@@ -1,142 +1,164 @@
-# 💠 Welcome to My GitHub — SimpleDevelopments™ HQ
-
-## 📊 Profile Stats
-![Profile Views](https://komarev.com/ghpvc/?username=Fadinlaws123&color=blueviolet&style=flat-square)
-![Downloads](https://img.shields.io/github/downloads/Fadinlaws123/SimpleCore/total?style=flat-square)
-[![GitHub Followers](https://img.shields.io/github/followers/Fadinlaws123?label=Followers&style=flat-square)](https://github.com/Fadinlaws123)
-
----
-
-## 📊 Profile Links
-[![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/RquDVTfDwu)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://simpledevelopments.org/store/)
-[![YouTube Badge](https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=youtube&logoColor=white)](#)
-
----
-
-## 📌 Quick Intro
-
-Welcome to the new home of **SimpleDevelopments™** on GitHub.
-
-I’m currently migrating everything over from my old account  
-👉 **[Fadin04](https://github.com/Fadin04)**  
-after losing access due to 2FA issues (pain). But hey — the grind doesn’t stop. I’m still pushing updates, rewriting older systems, and building brand-new content for the FiveM community.
-
-This account is where all future development lives.
-
----
-
-## 👤 About Me
-
-I’m **Fadinnn**, developer + designer + creator of everything under **SimpleDevelopments™**.
-
-- 🎓 Graduated in **2023**
-- 💻 Started scripting in high school (and never stopped)
-- 🛠 Built Discord bots, full frameworks, UI systems, RP mechanics, and more
-- 🚀 Creator of **SimpleCore**, SimpleHUD, SimpleBanking, SimpleNotify, and a long list of other resources
-- 🧠 Balancing full-time work + nightly development grind
-- 📩 DM-friendly: **Discord:** `fadin_laws`
-
----
-
-## 🧩 Tech Stack
-
-**Languages & Frameworks**
-
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML5-E96228?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
-
-**FiveM Ecosystem**
-
-![ND_Core](https://img.shields.io/badge/ND_Core-Support-blue?style=for-the-badge)
-![QBCore](https://img.shields.io/badge/QBCore-Compatible-orange?style=for-the-badge)
-![ESX](https://img.shields.io/badge/ESX-Compatible-yellow?style=for-the-badge)
-
-**Tools I Use**
-
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🚀 Script Highlights
-
-Some of the biggest releases from my development brand SimpleDevelopments™:
-
-- 🔹 **[SimpleBanking](https://simpledevelopments.org/store/simple-banking)**  
-- 🔹 **[SimpleFuel](https://simpledevelopments.org/store/simplefuel)**  
-- 🔹 **[SimplePoliceGarage](https://simpledevelopments.org/store/simplepolicegarage)**  
-- 🔹 **[SimpleHUDv2](https://simpledevelopments.org/store/simplehudv2)**  
-
-…and a ton more dropping soon. Stay tuned 👀
-
----
-
-## 🛠 What I'm Currently Working On
-
-Here’s what’s cooking behind the scenes:
-
-- ⚙️ **New Loading Screen Framework** (music, video, tabs, player controls)
-- 🚪 **Door Lock & Property System**
-- 🧭 **SimpleHUDv3** (fully redesigned, cleaner + faster)
-- 🚓 **Duty System Rewrite** (department blips, role sync, UI update)
-- 🧰 **SimpleFramework v2 Update**
-- 🗺 **Safezone Rework**
-- 🔍 **Vehicle Search + Impound System**
-
-I’m always iterating, always improving, always building something fresh.
-
----
-
-## 📈 Activity & Stats
-
-### 🔥 Contribution Heatmap  
-![GitHub Heatmap](https://github-readme-activity-graph.vercel.app/graph?username=Fadinlaws123&theme=react-dark&hide_border=true)
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
+# 💠 SimpleDevelopments
 
-<!-- Main Stats -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fadinlaws123&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github" width="95%" />
+### Simple. Powerful. Built for FiveM.
 
-</td>
-<td align="center" width="50%">
+<p>
+  <a href="https://simpledevelopments.org/store">
+    <img src="https://img.shields.io/badge/Explore_Our_Store-5865F2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/RquDVTfDwu">
+    <img src="https://img.shields.io/badge/Join_Our_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://github.com/Fadinlaws123?tab=followers">
+    <img src="https://img.shields.io/github/followers/Fadinlaws123?style=for-the-badge&logo=github&label=Followers" />
+  </a>
+</p>
 
-<!-- Languages -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fadinlaws123&layout=compact&theme=tokyonight&hide_border=false" width="95%" />
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- Streak (wide + centered) -->
-<img src="https://streak-stats.demolab.com?user=Fadinlaws123&theme=tokyonight&hide_border=false" width="70%" />
+<p>
+  <img src="https://img.shields.io/badge/FiveM-Development-FF6B35?style=flat-square&logo=fivem&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_Source-Resources-238636?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Custom-Development-8B5CF6?style=flat-square&logo=code&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=Fadinlaws123&label=Profile+Views&color=5865F2&style=flat-square" />
+</p>
 
 </div>
 
 ---
 
-## ❤️ Support the Grind
+## 👋 Welcome to SimpleDevelopments
 
-If you vibe with my work:
+**SimpleDevelopments** creates high-quality resources and development solutions for FiveM communities.
 
-- ⭐ Star a repo  
-- 🔔 Follow the account  
-- 🔗 Share my scripts  
-- 💬 Hit me up on Discord  
+Our goal is simple: build resources that are powerful, customizable, and easy to use without turning installation into a second occupation.
 
-Every bit of support helps me grow this brand and push more updates for the community.
+Here on GitHub, you'll find our collection of **free and open-source resources**, alongside projects and tools created for the FiveM community.
 
-**Thanks for stopping by — you're appreciated.**
+### What We Create
+
+* 💻 **FiveM Scripts** — Standalone resources, server systems, utilities, jobs, and gameplay features
+* 🤖 **Discord Bots** — Custom bots and community management systems
+* 🎨 **Vehicle Liveries** — High-quality custom designs for FiveM communities
+* 🚗 **Custom Vehicles** — Vehicle development and customization
+* 🛠️ **Custom Development** — Scripts and systems built specifically around your community
+* 🆓 **Open-Source Resources** — Free resources available directly through GitHub
+
+---
+
+## 🆓 Open-Source Resources
+
+We believe useful resources don't always need a price tag.
+
+Our GitHub contains a growing collection of free and open-source FiveM resources available for the community to use, modify, and contribute to.
+
+⭐ **Found something useful?** Consider starring the repository. It helps more people discover our work and supports future open-source releases.
+
+---
+
+## 🚀 Featured Resources
+
+### 💰 SimpleBanking
+
+A modern standalone banking system designed to provide a clean and immersive financial experience for FiveM servers.
+
+[View SimpleBanking](https://simpledevelopments.org/store/simple-banking)
+
+### ⛽ SimpleFuel
+
+A customizable fuel system designed to provide a simple and reliable fueling experience.
+
+[View SimpleFuel](https://simpledevelopments.org/store/simplefuel)
+
+### 🚓 SimplePoliceGarage
+
+A dedicated garage system designed for law enforcement departments and roleplay communities.
+
+[View SimplePoliceGarage](https://simpledevelopments.org/store/simplepolicegarage)
+
+### 🖥️ SimpleHUDv2
+
+A customizable HUD system designed to provide players with a clean and modern interface.
+
+[View SimpleHUDv2](https://simpledevelopments.org/store/simplehudv2)
+
+### 🛒 Explore Everything
+
+Looking for more?
+
+Browse our complete collection of FiveM resources, free releases, development services, and more.
+
+**[Browse the SimpleDevelopments Store](https://simpledevelopments.org/store)**
+
+---
+
+## 🧩 Development
+
+### Languages & Technologies
+
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge\&logo=lua\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML5-E96228?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-264DE4?style=for-the-badge\&logo=css3\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge\&logo=node.js\&logoColor=white)
+
+### FiveM Ecosystem
+
+![Standalone](https://img.shields.io/badge/Standalone-Resources-success?style=for-the-badge)
+![ND\_Core](https://img.shields.io/badge/ND_Core-Support-blue?style=for-the-badge)
+![QBCore](https://img.shields.io/badge/QBCore-Compatible-orange?style=for-the-badge)
+![ESX](https://img.shields.io/badge/ESX-Compatible-yellow?style=for-the-badge)
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fadinlaws123&theme=react-dark&hide_border=true" width="100%" />
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fadinlaws123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="95%" />
+</td>
+<td align="center" width="50%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fadinlaws123&layout=compact&theme=tokyonight&hide_border=true" width="95%" />
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🤝 Join the Community
+
+SimpleDevelopments is more than a collection of resources.
+
+Join our community to:
+
+* 👀 Follow upcoming development and previews
+* 🆕 Discover new releases and updates
+* 💡 Suggest ideas for future resources
+* 🛠️ Get support for our products
+* 🧪 Participate in community testing opportunities
+* 🎁 Access community events and opportunities
+
+### 🔗 SimpleDevelopments
+
+🌐 **[Visit Our Website](https://simpledevelopments.org/store)**
+
+💬 **[Join Our Discord](https://discord.gg/RquDVTfDwu)**
+
+---
+
+<div align="center">
+
+### Keep it Simple. Keep it SimpleDevelopments.
+
+⭐ **Star our repositories • Follow our development • Join the community**
+
+</div>
