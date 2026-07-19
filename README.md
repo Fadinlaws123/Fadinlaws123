@@ -1,9 +1,6 @@
 <div align="center">
 
-<img width="1983" height="793" alt="79e883a6-fce0-458b-a412-f49f75540cb9" src="https://github.com/user-attachments/assets/4729539d-afdc-48f6-b5b6-d1b634318071" />
-
-
-# 💠 SimpleDevelopments
+<img width="100%" alt="SimpleDevelopments banner" src="https://github.com/user-attachments/assets/4729539d-afdc-48f6-b5b6-d1b634318071" />
 
 ### Simple. Powerful. Built for FiveM.
 
