@@ -5,15 +5,9 @@
 ### Simple. Powerful. Built for FiveM.
 
 <p>
-  <a href="https://simpledevelopments.org/store">
-    <img src="https://img.shields.io/badge/Explore_Our_Store-5865F2?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/RquDVTfDwu">
-    <img src="https://img.shields.io/badge/Join_Our_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://github.com/Fadinlaws123?tab=followers">
-    <img src="https://img.shields.io/github/followers/Fadinlaws123?style=for-the-badge&logo=github&label=Followers" />
-  </a>
+  <a href="https://simpledevelopments.org/store"><img src="https://img.shields.io/badge/Explore_Our_Store-5865F2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://discord.gg/RquDVTfDwu"><img src="https://img.shields.io/badge/Join_Our_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://github.com/Fadinlaws123?tab=repositories"><img src="https://img.shields.io/badge/Explore_Our_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p>
@@ -29,66 +23,117 @@
 
 ## 👋 Welcome to SimpleDevelopments
 
-**SimpleDevelopments** creates high-quality resources and development solutions for FiveM communities.
+**SimpleDevelopments** creates FiveM resources, Discord bots, and custom development solutions built around making server management and gameplay systems easier to use without sacrificing functionality.
 
-Our goal is simple: build resources that are powerful, customizable, and easy to use without turning installation into a second occupation.
-
-Here on GitHub, you'll find our collection of **free and open-source resources**, alongside projects and tools created for the FiveM community.
+GitHub is home to our growing collection of **free and open-source projects**, while additional premium resources and development services are available through the SimpleDevelopments store.
 
 ### What We Create
 
-* 💻 **FiveM Scripts** — Standalone resources, server systems, utilities, jobs, and gameplay features
-* 🤖 **Discord Bots** — Custom bots and community management systems
-* 🎨 **Vehicle Liveries** — High-quality custom designs for FiveM communities
-* 🚗 **Custom Vehicles** — Vehicle development and customization
-* 🛠️ **Custom Development** — Scripts and systems built specifically around your community
-* 🆓 **Open-Source Resources** — Free resources available directly through GitHub
+- 💻 **FiveM Scripts** — Standalone resources, server systems, utilities, jobs, and gameplay features
+- 🤖 **Discord Bots** — Community management, automation, statistics, support, and custom systems
+- 🎨 **Vehicle Liveries** — Custom designs for FiveM communities and departments
+- 🚗 **Custom Vehicles** — Vehicle development and customization
+- 🛠️ **Custom Development** — Purpose-built scripts, bots, and systems
+- 🆓 **Open-Source Resources** — Free community resources available directly through GitHub
 
 ---
 
-## 🆓 Open-Source Resources
+## 🆕 Latest Open-Source Release
 
-We believe useful resources don't always need a price tag.
+### 🚨 Simple911 v2
 
-Our GitHub contains a growing collection of free and open-source FiveM resources available for the community to use, modify, and contribute to.
+A complete rebuild of the original Simple911 resource, designed to keep emergency calls simple for civilians while giving responders a modern and interactive way to manage incidents.
 
-⭐ **Found something useful?** Consider starring the repository. It helps more people discover our work and supports future open-source releases.
+**Highlights:** interactive responder cards, primary and attached unit tracking, automatic on-scene detection, active call management, map blips, caller updates, and live Discord incident logs.
+
+<p>
+  <a href="https://github.com/Fadinlaws123/Simple911_v2"><img src="https://img.shields.io/badge/View_Simple911_v2-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🚀 Featured Resources
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚨 Simple911 v2
+
+A modern standalone emergency call system with interactive responder alerts, unit tracking, automatic on-scene detection, call management, and Discord logging.
+
+**[View Repository](https://github.com/Fadinlaws123/Simple911_v2)**
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 SimpleChat
+
+A modern standalone FiveM chat replacement with custom NUI, configurable roleplay commands, reusable exports, and optional Discord logging.
+
+**[View Repository](https://github.com/Fadinlaws123/SimpleChat)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 💰 SimpleBanking
 
 A modern standalone banking system designed to provide a clean and immersive financial experience for FiveM servers.
 
-[View SimpleBanking](https://simpledevelopments.org/store/simple-banking)
+**[View on Store](https://simpledevelopments.org/store/simple-banking)**
+
+</td>
+<td width="50%" valign="top">
 
 ### ⛽ SimpleFuel
 
-A customizable fuel system designed to provide a simple and reliable fueling experience.
+A customizable fuel system designed to provide a simple and reliable fueling experience across FiveM servers.
 
-[View SimpleFuel](https://simpledevelopments.org/store/simplefuel)
+**[View on Store](https://simpledevelopments.org/store/simplefuel)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🚓 SimplePoliceGarage
 
 A dedicated garage system designed for law enforcement departments and roleplay communities.
 
-[View SimplePoliceGarage](https://simpledevelopments.org/store/simplepolicegarage)
+**[View on Store](https://simpledevelopments.org/store/simplepolicegarage)**
+
+</td>
+<td width="50%" valign="top">
 
 ### 🖥️ SimpleHUDv2
 
 A customizable HUD system designed to provide players with a clean and modern interface.
 
-[View SimpleHUDv2](https://simpledevelopments.org/store/simplehudv2)
+**[View on Store](https://simpledevelopments.org/store/simplehudv2)**
 
-### 🛒 Explore Everything
+</td>
+</tr>
+</table>
 
-Looking for more?
+<div align="center">
 
-Browse our complete collection of FiveM resources, free releases, development services, and more.
+### 🛒 Looking for more?
 
-**[Browse the SimpleDevelopments Store](https://simpledevelopments.org/store)**
+Browse the complete collection of FiveM resources, free releases, and development services.
+
+**[Explore the SimpleDevelopments Store](https://simpledevelopments.org/store)**
+
+</div>
+
+---
+
+## 🆓 Open-Source Resources
+
+Our GitHub contains free FiveM resources ranging from complete gameplay systems to focused server utilities. Each project is documented individually with its features, installation instructions, configuration details, and requirements where applicable.
+
+⭐ If one of the resources helps your server, starring the repository supports the project and makes it easier for others to discover.
 
 ---
 
@@ -96,18 +141,18 @@ Browse our complete collection of FiveM resources, free releases, development se
 
 ### Languages & Technologies
 
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge\&logo=lua\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML5-E96228?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-264DE4?style=for-the-badge\&logo=css3\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML5-E96228?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
 
-### FiveM Ecosystem
+### FiveM Development
 
-![Standalone](https://img.shields.io/badge/Standalone-Resources-success?style=for-the-badge)
-![ND\_Core](https://img.shields.io/badge/ND_Core-Support-blue?style=for-the-badge)
-![QBCore](https://img.shields.io/badge/QBCore-Compatible-orange?style=for-the-badge)
-![ESX](https://img.shields.io/badge/ESX-Compatible-yellow?style=for-the-badge)
+![Standalone First](https://img.shields.io/badge/Standalone-First-238636?style=for-the-badge)
+![Framework Integrations](https://img.shields.io/badge/Framework-Integrations-5865F2?style=for-the-badge)
+![FiveM NUI](https://img.shields.io/badge/FiveM-NUI-FF6B35?style=for-the-badge)
+![Discord Integrations](https://img.shields.io/badge/Discord-Integrations-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ---
 
@@ -119,16 +164,7 @@ Browse our complete collection of FiveM resources, free releases, development se
 
 <br>
 
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fadinlaws123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="95%" />
-</td>
-<td align="center" width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fadinlaws123&layout=compact&theme=tokyonight&hide_border=true" width="95%" />
-</td>
-</tr>
-</table>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fadinlaws123&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
@@ -136,22 +172,12 @@ Browse our complete collection of FiveM resources, free releases, development se
 
 ## 🤝 Join the Community
 
-SimpleDevelopments is more than a collection of resources.
+The SimpleDevelopments community is the main place to follow new releases, see development previews, suggest future projects, receive product support, and take part in testing opportunities.
 
-Join our community to:
-
-* 👀 Follow upcoming development and previews
-* 🆕 Discover new releases and updates
-* 💡 Suggest ideas for future resources
-* 🛠️ Get support for our products
-* 🧪 Participate in community testing opportunities
-* 🎁 Access community events and opportunities
-
-### 🔗 SimpleDevelopments
-
-🌐 **[Visit Our Website](https://simpledevelopments.org/store)**
-
-💬 **[Join Our Discord](https://discord.gg/RquDVTfDwu)**
+<p>
+  <a href="https://simpledevelopments.org/store"><img src="https://img.shields.io/badge/Visit_Our_Website-5865F2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://discord.gg/RquDVTfDwu"><img src="https://img.shields.io/badge/Join_The_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -159,6 +185,6 @@ Join our community to:
 
 ### Keep it Simple. Keep it SimpleDevelopments.
 
-⭐ **Star our repositories • Follow our development • Join the community**
+⭐ **Explore our projects • Follow development • Join the community**
 
 </div>
