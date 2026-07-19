@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://simpledevelopments.org/store"><img src="https://img.shields.io/badge/Explore_Our_Store-5865F2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://discord.gg/RquDVTfDwu"><img src="https://img.shields.io/badge/Join_Our_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://discord.gg/GzqWcWnYzb"><img src="https://img.shields.io/badge/Join_Our_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://github.com/Fadinlaws123?tab=repositories"><img src="https://img.shields.io/badge/Explore_Our_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -176,7 +176,7 @@ The SimpleDevelopments community is the main place to follow new releases, see d
 
 <p>
   <a href="https://simpledevelopments.org/store"><img src="https://img.shields.io/badge/Visit_Our_Website-5865F2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://discord.gg/RquDVTfDwu"><img src="https://img.shields.io/badge/Join_The_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://discord.gg/GzqWcWnYzb"><img src="https://img.shields.io/badge/Join_The_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 ---
